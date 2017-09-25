@@ -1,0 +1,6 @@
+name: falldamage
+main: falldamage.plugin.falldamage
+version: 1.0.0
+api: [1.0.0]
+author: miyabi1210
+
