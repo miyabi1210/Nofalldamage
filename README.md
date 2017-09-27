@@ -1,5 +1,5 @@
 # falldamage
-落下ダメージがなくなるnukkitPlugin
+落下ダメージがなくなるnukkit/jupiterPlugin
 
 ## ライセンス
 
